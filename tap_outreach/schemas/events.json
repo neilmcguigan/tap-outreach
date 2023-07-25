@@ -45,12 +45,6 @@
         "string"
       ]
     },
-    "payload": {
-      "type": [
-        "null",
-        "object"
-      ]
-    },
     "requestCity": {
       "type": [
         "null",
